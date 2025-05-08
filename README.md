@@ -1,2 +1,3 @@
 # SUSTENTABILIDADES
-conectar o python ao MYSQl e classificar as sustentabilidades
+conect python to MySQL to classificate the sustentability
+
